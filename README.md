@@ -1,7 +1,6 @@
 # Easy Api
 
 <b>
-Made in c++ for creating apis.
 <h1>Why I made this?</h1>
 A: I used flask in python to make my apis but I always wanted to make something to use in c++ so then I started to work on easy api a light weight c++ api library that can be used for most use cases.
 <h1>Will this project be improved?</h1>
